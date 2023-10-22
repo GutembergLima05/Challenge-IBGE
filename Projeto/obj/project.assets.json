@@ -3693,23 +3693,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WINDOWS10\\.nuget\\packages\\": {},
+    "C:\\Users\\mazen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WINDOWS10\\OneDrive\\Desktop\\DesafioIbge\\Projeto\\Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\mazen\\OneDrive\\Área de Trabalho\\Challenge-IBGE\\Projeto\\Projeto.csproj",
       "projectName": "Projeto",
-      "projectPath": "C:\\Users\\WINDOWS10\\OneDrive\\Desktop\\DesafioIbge\\Projeto\\Projeto.csproj",
-      "packagesPath": "C:\\Users\\WINDOWS10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WINDOWS10\\OneDrive\\Desktop\\DesafioIbge\\Projeto\\obj\\",
+      "projectPath": "C:\\Users\\mazen\\OneDrive\\Área de Trabalho\\Challenge-IBGE\\Projeto\\Projeto.csproj",
+      "packagesPath": "C:\\Users\\mazen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mazen\\OneDrive\\Área de Trabalho\\Challenge-IBGE\\Projeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\WINDOWS10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mazen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
